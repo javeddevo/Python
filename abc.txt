@@ -1,0 +1,3 @@
+User logged in from 192.168.1.10
+Another access from 10.0.0.5
+Invalid IP detected: 300.400.500.600
