@@ -1,0 +1,55 @@
+file_info:
+  description: 'This is a sample YAML file of order details made by user'
+  orders:
+    edibles:
+        1:
+          name: 'Snacks'
+          purchased_date: '2025-04-22'
+          price: 100.00
+          additional_data:
+            expiration: '2025-04-30'
+            dimensions: null
+        2:
+          name: 'Drinks'
+          purchased_date: '2025-04-25'
+          price: 350.00
+          additional_data:
+            expiration: '2025-04-30'
+            dimensions: null
+        3:
+          name: 'Frozen Foods'
+          purchased_date: '2025-04-22'
+          price: 100.00
+          additional_data:
+            expiration: '2025-09-30'
+            dimensions: null
+
+    others:
+        1:
+          name: 'Table'
+          purchased_date: '2025-04-10'
+          price: 3000.00
+          additional_data:
+            expiration: null
+            dimensions:
+                length: 100.00
+                width: 70.00
+                depth: 75
+        2:
+          name: 'Cleaning Liquid'
+          purchased_date: '2025-04-01'
+          price: 450.50
+          additional_data:
+            expiration: '2026-04-01'
+            dimensions: null
+        3:
+          name: 'Bed Sheet'
+          purchased_date: '2025-04-10'
+          price: 1000.00
+          additional_data:
+            expiration: null
+            dimensions:
+                length: 200.00
+                width: 180.00
+                depth: null
+ 
