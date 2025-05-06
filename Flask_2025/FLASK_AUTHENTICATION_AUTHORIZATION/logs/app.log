@@ -1,0 +1,42 @@
+2025-05-06 15:46:22,280 - INFO - root - App started successfully
+2025-05-06 15:46:22,416 - INFO - werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-06 15:46:22,420 - INFO - werkzeug - [33mPress CTRL+C to quit[0m
+2025-05-06 15:46:22,463 - INFO - werkzeug -  * Restarting with watchdog (windowsapi)
+2025-05-06 15:46:24,847 - INFO - root - App started successfully
+2025-05-06 15:46:24,908 - WARNING - werkzeug -  * Debugger is active!
+2025-05-06 15:46:24,921 - INFO - werkzeug -  * Debugger PIN: 142-791-612
+2025-05-06 15:46:34,429 - INFO - root - User 'javeed' registered successfully.
+2025-05-06 15:46:34,436 - INFO - werkzeug - 127.0.0.1 - - [06/May/2025 15:46:34] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 201 -
+2025-05-06 15:47:07,719 - INFO - root - User 'javeed' logged in successfully.
+2025-05-06 15:47:07,721 - INFO - werkzeug - 127.0.0.1 - - [06/May/2025 15:47:07] "POST /api/v1/login HTTP/1.1" 200 -
+2025-05-06 15:47:29,089 - INFO - werkzeug - 127.0.0.1 - - [06/May/2025 15:47:29] "GET /api/v1/welcome HTTP/1.1" 200 -
+2025-05-06 15:47:52,814 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\FLASK_AUTHENTICATION_AUTHORIZATION\\delete.py', reloading
+2025-05-06 15:47:53,589 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-05-06 15:47:53,593 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+2025-05-06 15:47:53,595 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\werkzeug\\security.py', reloading
+2025-05-06 15:47:53,598 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\jwt\\__init__.py', reloading
+2025-05-06 15:47:53,639 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\FLASK_AUTHENTICATION_AUTHORIZATION\\config.py', reloading
+2025-05-06 15:47:53,650 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\functools.py', reloading
+2025-05-06 15:47:53,660 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_restful\\__init__.py', reloading
+2025-05-06 15:47:53,664 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_jwt_extended\\__init__.py', reloading
+2025-05-06 15:47:53,677 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask\\views.py', reloading
+2025-05-06 15:47:53,679 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-05-06 15:47:53,683 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-05-06 15:47:53,691 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_restful\\utils\\__init__.py', reloading
+2025-05-06 15:47:53,693 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_restful\\representations\\json.py', reloading
+2025-05-06 15:47:53,703 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask\\typing.py', reloading
+2025-05-06 15:47:53,705 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-05-06 15:47:53,709 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+2025-05-06 15:47:53,712 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+2025-05-06 15:47:53,722 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+2025-05-06 15:47:53,724 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2025-05-06 15:47:53,728 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\model.py', reloading
+2025-05-06 15:47:53,737 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\query.py', reloading
+2025-05-06 15:47:53,739 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\session.py', reloading
+2025-05-06 15:47:53,743 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_sqlalchemy\\table.py', reloading
+2025-05-06 15:47:53,746 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_jwt_extended\\jwt_manager.py', reloading
+2025-05-06 15:47:53,750 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_jwt_extended\\utils.py', reloading
+2025-05-06 15:47:53,754 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask_jwt_extended\\view_decorators.py', reloading
+2025-05-06 15:47:53,758 - INFO - werkzeug -  * Detected change in 'C:\\Users\\navee\\OneDrive\\Desktop\\python_coding_questions\\python_interview_programs\\Flask_2025\\flask\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2025-05-06 15:47:54,080 - INFO - werkzeug -  * Restarting with watchdog (windowsapi)
